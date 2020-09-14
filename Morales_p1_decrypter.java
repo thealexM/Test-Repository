@@ -1,8 +1,8 @@
-package trask_p1;
+package Morales_p1;
 
 import java.util.Scanner;
 
-public class trask_p1_decrypter {
+public class Morales_p1_decrypter {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
