@@ -9,11 +9,11 @@ public class Morales_p1 {
 		
 		Scanner scnr = new Scanner(System.in);
 
-		System.out.println("Welcome to the data encrypter!");
+		System.out.println("Welcome to the Data Encrypter!");
 
 		System.out.println("");
 			
-		System.out.println("Please enter four the digit integer you would like to encrypt:");
+		System.out.println("Enter a four digit integer you would like to encrypt:");
 
 		System.out.println("");
 			
