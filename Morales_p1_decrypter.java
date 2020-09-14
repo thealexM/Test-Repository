@@ -9,11 +9,11 @@ public class trask_p1_decrypter {
 
 		Scanner scnr = new Scanner(System.in);
 
-		System.out.println("Welcome to the data decrypter!");
+		System.out.println("Welcome to the Data Decrypter!");
 
 		System.out.println("");
 			
-		System.out.println("Please enter four the digit integer you would like to decrypt:");
+		System.out.println("Please enter a four digit integer you would like to decrypt:");
 
 		System.out.println("");
 			
